@@ -1,2 +1,7 @@
 # 2023---Sintaxis-y-semantica-de-los-Lenguajes
-2023 - Sintaxis y semántica de los Lenguajes - K2006
+- Sintaxis y semántica de los Lenguajes 
+- Curso: K2006
+- Año: 2023
+- Legajo: 1678036
+- Apellidos: Monzón Brito
+- Nombres: Mario Agustin
